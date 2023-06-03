@@ -65,8 +65,8 @@ Well, actually for the background in mobile devices i still can't figure how to 
 
 ### Useful resources
 
-- [TailwindCSS](https://tailwindcss.com/) - This helped me to do the styling more easy. I really liked this bootstrap and will use it going forward.
-- [Vercel](https://vercel.com) - This is an amazing website which helped me to upload my website into the internet. I'd recommend it to anyone still learning to use this website.
+- [TailwindCSS](https://tailwindcss.com/) - This helped me to do the styling more easy. I really liked this framework and will use it going forward.
+- [Vercel](https://vercel.com) - This is an amazing website which helped me to upload my website into the internet. I'd recommend it to anyone who is still learning to use this website.
 
 ## Author
 
